@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://kurumix33.github.io/blog/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Zebing Xu on Kurumix33</title>
+    <link>https://kurumix33.github.io/blog/about/</link>
+    <description>Recent content in About Zebing Xu on Kurumix33</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2020 18:10:17 +0800</lastBuildDate>
+    <atom:link href="https://kurumix33.github.io/blog/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R某 留</title>
+      <link>https://kurumix33.github.io/blog/post/hello/</link>
+      <pubDate>Mon, 09 Mar 2020 18:04:15 +0800</pubDate>
+      <guid>https://kurumix33.github.io/blog/post/hello/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;好好学习，表哥。&lt;/strong&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;../../en.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+  </channel>
+</rss>
